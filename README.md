@@ -5,7 +5,7 @@ Użytkownik opiekuje się wirtualnym zwierzątkiem.
 Zwierzątko ma trzy parametry: głód, energia i nastrój.  
 Można je karmić, bawić się z nim i kłaść spać.  
 
-## ⚙️ Jak działa aplikacja 
+## Jak działa aplikacja 
 Wirtualne zwierzątko ma trzy główne parametry:
 - głód  
 - energia  
